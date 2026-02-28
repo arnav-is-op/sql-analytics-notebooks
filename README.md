@@ -1,13 +1,29 @@
-# google-collab-notes
-this is google collab notes of indermediate sql notes
+# SQL Analytics Notebook Collection
 
-this include notes of 
+This repository contains my **intermediate SQL learning notes and practice notebooks** created using Google Colab.
 
-1) pivoting data
-2) date , time formatting
-3) windows function
-4) views
-5) data cleaning and string formating
-6) query optimisation
-7) three project questions and their notes and solutions
-8) a basic folder containing the code to import contoso database on google collab and explore different tables in that database
+The notebooks cover practical SQL concepts commonly used in **data analytics and data analysis workflows**.
+
+## Topics Covered
+
+* Data Pivoting and Aggregations
+* Date and Time Formatting
+* Window Functions
+* SQL Views
+* Data Cleaning and String Manipulation
+* Query Optimization Techniques
+* Practice Project Questions with Solutions
+
+## Dataset Practice
+
+This repository also includes setup files used to import and explore the **Contoso sample database** in Google Colab for hands-on SQL practice.
+
+## Environment
+
+* Google Colab
+* SQL (Analytical Queries)
+* Practice-focused notebook workflow
+
+## Purpose
+
+These notes were created as part of structured preparation toward **Data Analytics and SQL problem solving**, focusing on practical query writing and real-world analytical scenarios.
