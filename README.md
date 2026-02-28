@@ -29,6 +29,6 @@ This repository also includes setup files used to import and explore the **Conto
 These notes were created as part of structured preparation toward **Data Analytics and SQL problem solving**, focusing on practical query writing and real-world analytical scenarios.
 ---
 
-Author
+## Author
 
-Arnav Heerakar
+Arnav
